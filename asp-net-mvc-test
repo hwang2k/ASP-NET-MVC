@@ -1,2 +1,13 @@
 https://www.youtube.com/watch?v=hZ1DASYd9rk
 Learn ASP.NET Core MVC (.NET 6) - Full Course
+
+1. .net and MVC
+  Tools: 
+  .net v6. IDE MSVS 2022 (free download and install commitation version). MS SQL server.
+2. Entity Framework core
+
+3. create db using db magration. create, read, update, delete of db
+
+4. client and server validation. 
+
+5. Deploy to Azure.
